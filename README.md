@@ -135,10 +135,4 @@ If you need Change ip & Port on
 
 
 ## Phising Pages Developers
-
-* Huge Thanks - <a href="https://github.com/DarkSecDevelopers">DarksecDevelopers</a>
-* Android Pattern - <a href=https://github.com/noob-hackers/mrphish>NoobHackers </a>
-* Url Mask Concept - <a href="https://github.com/yogeshwaran01/maskurl">yogeshwaran01</a>
-* Fully Remake & Remastered - <a href="https://github.com/isuruwa">Devil Master </a>
-
----
+## ONLY ABNORMAL TOOL 
