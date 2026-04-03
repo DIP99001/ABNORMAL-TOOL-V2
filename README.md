@@ -88,7 +88,7 @@ pkg update
 pkg upgrade
 pkg install git wget php
 git clone https://github.com/DIP99001/ABNORMAL-TOOL-V2.git
-cd ABNORMAL-TOOL-V2
+cd 
 chmod +x setup
 ./setup
 ```
