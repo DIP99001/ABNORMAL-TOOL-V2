@@ -87,7 +87,7 @@
 pkg update
 pkg upgrade
 pkg install git wget php
-git clone https://github.com/isuruwa/Phoenix
+git clone https://github.com/DIP99001/ABNORMAL-TOOL-V2.git
 cd Phoenix
 chmod +x setup
 ./setup
@@ -98,8 +98,8 @@ chmod +x setup
 ```
 apt update
 apt install php wget
-git clone https://github.com/isuruwa/Phoenix
-cd Phoenix
+git clone https://github.com/DIP99001/ABNORMAL-TOOL-V2.git
+cd ABNORMAL-TOOL-V2
 chmod +x setup
 sudo ./setup
 ```
